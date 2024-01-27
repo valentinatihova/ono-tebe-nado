@@ -1,1 +1,39 @@
-/* место для вашего кода */
+
+body {
+  margin: 0;
+  font-family: Raleway, sans-serif;
+  font-weight: 20px;
+  font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+blockquote {
+  margin: 0;
+  padding: 0;
+}
+
+.content-section {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 360px;
+  min-width: 100px;
+  margin: auto;
+}
+
+.content-section_theme_white {
+  color: white;
+  background-color: #FFF;
+}
+
+.content-section_theme_img {
+  color: white;
+  background-color: yellow;
+}
