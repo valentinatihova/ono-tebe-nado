@@ -1,1 +1,2 @@
-Первый рабочий проект "Ото тебе надо"
+Первый рабочий проект "Оно тебе надо"
+https://github.com/valentinatihova/ono-tebe-nado.git
